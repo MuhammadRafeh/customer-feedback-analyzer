@@ -6,6 +6,14 @@ Enter one review per line; the app sends each review individually to the
 status in a table. Successful results can be saved to a local SQLite database
 and reviewed later.
 
+## Screenshots
+
+![Entering customer reviews](images/ss1.png)
+
+![Customer review analysis results](images/ss2.png)
+
+![Saved review history](images/ss3.png)
+
 ## Requirements
 
 - Python 3.14 or newer
